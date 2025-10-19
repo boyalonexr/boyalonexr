@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi There! 👋 I'm Micheal Victor</h1>
+<h1 align="center">Hi There! 👋 I'm Chidubem Victor</h1>
 
 <p align="center">
   <a href="https://github.com/micheal-victor"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;UI%2FUX+Designer;Loves+to+Collaborate;Always+learning+new+things&center=true&width=500&height=50"></a>
@@ -26,13 +26,16 @@ Proficient in a variety of programming languages, frameworks, and technologies.
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=micheal-victor&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <!-- All-time stats (includes private + all commits) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=micheal-victor&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
+  <!-- Streak stats (already all-time by default) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=micheal-victor&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micheal-victor&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micheal-victor&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </p>
