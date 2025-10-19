@@ -26,17 +26,15 @@ Proficient in a variety of programming languages, frameworks, and technologies.
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <!-- All-time stats (Netlify-hosted, includes private + all commits) -->
-  <img src="https://micheal-stats.netlify.app/api?username=micheal-victor&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=micheal-victor&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <!-- Streak stats (still hosted externally for accuracy) -->
-  <img src="https://streak-stats.demolab.com?user=micheal-victor&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=micheal-victor&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- Top languages (Netlify-hosted version) -->
-  <img src="https://micheal-stats.netlify.app/api/top-langs/?username=micheal-victor&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micheal-victor&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
