@@ -1,8 +1,8 @@
 <!-- Profile README -->
+**`Code ❤️.Collaborate ✨ Innovate 🚀. Software Developer 💻.`**
 <p align="cente">
   <img src="https://komarev.com/ghpvc/?username=au-lex&label=Profile%20views&color=0e75b6&style=flat" alt="boyalonexr" />
 </p>
-**`Code ❤️.Collaborate ✨ Innovate 🚀. Software Developer 💻.`**
 
 <h1 align="center">Hi There! 👋 I'm Chidubem Victor</h1>
 
