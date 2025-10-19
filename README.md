@@ -6,16 +6,16 @@
   <img src="https://komarev.com/ghpvc/?username=au-lex&label=Profile%20views&color=0e75b6&style=flat" alt="boyalonexr" />
 </p>
 
-<h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=tre&vCenter=rue&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chidubem+Victor!;" />
+<h1 align="center">
+  <a href="https://github.com/micheal-victor"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Loves+to+Collaborate;Always+learning+new+things&center=true&width=500&height=50"></a>
 </h1>
 
+---
 
-
-<br/>
-
-Highly skilled and innovative web developer with  years of experience in creating responsive and dynamic web applications. Adept at translating client requirements into robust and user-friendly digital solutions. Proficient in a variety of programming languages, frameworks, and technologies.
-
+### 💫 About Me:
+Highly skilled and innovative web developer with experience creating responsive and dynamic web applications.  
+Adept at translating client requirements into robust and user-friendly digital solutions.  
+Proficient in a variety of programming languages, frameworks, and technologies.
  
 ---
 ### 🧰 Languages and Tools
