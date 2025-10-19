@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi There! 👋 I'm Chidubem Victor</h1>
+<h1 align="start">Hi There! 👋 I'm Chidubem Victor</h1>
 
 <p align="center">
   <a href="https://github.com/micheal-victor"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Loves+to+Collaborate;Always+learning+new+things&center=true&width=500&height=50"></a>
