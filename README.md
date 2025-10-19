@@ -18,7 +18,7 @@ Proficient in a variety of programming languages, frameworks, and technologies.
 ### 🧠 Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,html,css,sass,tailwind,figma,git,github,python,postgresql" />
+  <img src="https://skillicons.dev/icons?i=react,js,nextjs,nodejs,ts,html,css,tailwind,figma,git,github" />
 </p>
 
 ---
