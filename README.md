@@ -6,9 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=au-lex&label=Profile%20views&color=0e75b6&style=flat" alt="boyalonexr" />
 </p>
 
-<h1 align="center">
-  <a href="https://github.com/micheal-victor"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Loves+to+Collaborate;Always+learning+new+things&center=true&width=500&height=50"></a>
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=tre&vCenter=rue&width=500&height=70&duration=4000&lines=Frontend+Developer;Loves+to+Collaborate;Always+learning+new+things;" />
 </h1>
+
 
 ---
 
