@@ -1,5 +1,5 @@
 
-# Hi There! 👋 I'm Micheal Victor
+# Hi There! 👋 I'm Chidubem Victor
 
 **`Code 💜.Collaborate ✨ Innovate 🚀. Software Developer 💻.`**
 <p align="cente">
@@ -10,8 +10,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=tre&vCenter=rue&width=500&height=70&duration=4000&lines=Frontend+Developer;Loves+to+Collaborate;Always+learning+new+things;" />
 </h1>
 
-
----
 
 ### 💫 About Me:
 Highly skilled and innovative web developer with experience creating responsive and dynamic web applications.  
@@ -37,9 +35,9 @@ Proficient in a variety of programming languages, frameworks, and technologies.
 
 ### 📊 Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=au-lex&show_icons=true&locale=en&theme=react"au-lex" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boyalonexr&show_icons=true&locale=en&theme=react alt="au-lex" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=au-lex&theme=react" alt="au-lex" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boyalonexr&theme=react" alt="au-lex" /></p>
 
 
 
