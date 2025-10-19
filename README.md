@@ -35,13 +35,13 @@ Proficient in a variety of programming languages, frameworks, and technologies.
 
 ### 📊 Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boyalonexr&show_icons=true&locale=en&theme=react alt="au-lex" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boyalonexr&show_icons=true&locale=en&theme=react"boyalonexr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boyalonexr&theme=react" alt="au-lex" /></p>
 
 
 
-![Au-lex's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=au-lex&show_icons=true&theme=gruvbox)
+![Au-lex's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=boyalonexr&show_icons=true&theme=gruvbox)
 
 
 #
