@@ -1,13 +1,13 @@
 
-# 🏄‍♂️ Aulex
+# 🏄‍♂️ Victor
 
-**`Code ❤️.Collaborate ✨ Innovate 🚀. Software Developer 💻.`**
+**`Code 💜.Collaborate ✨ Innovate 🚀. Software Developer 💻.`**
 <p align="cente">
-  <img src="https://komarev.com/ghpvc/?username=au-lex&label=Profile%20views&color=0e75b6&style=flat" alt="au-lex" />
+  <img src="https://komarev.com/ghpvc/?username=au-lex&label=Profile%20views&color=0e75b6&style=flat" alt="boyalonexr" />
 </p>
 
 <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=tre&vCenter=rue&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aulex!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=tre&vCenter=rue&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chidubem+Victor!;" />
 </h1>
 
 
@@ -22,8 +22,8 @@ Highly skilled and innovative web developer with  years of experience in creatin
 
 
 <div align="cente">
-    <img src="https://skillicons.dev/icons?i=react,linux,bootstrap,mui,html,css,sass,redux,prisma,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,mysql" /><br>
 </div>
 
 
