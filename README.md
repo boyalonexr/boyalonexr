@@ -1,6 +1,12 @@
 <!-- Profile README -->
+# 💜 Victor
 
-<h1 align="start">Hi There! 👋 I'm Chidubem Victor</h1>
+**`Code ❤️.Collaborate ✨ Innovate 🚀. Software Developer 💻.`**
+<p align="cente">
+  <img src="https://komarev.com/ghpvc/?username=au-lex&label=Profile%20views&color=0e75b6&style=flat" alt="boyalonexr" />
+</p>
+
+<h1 align="center">Hi There! 👋 I'm Chidubem Victor</h1>
 
 <p align="center">
   <a href="https://github.com/micheal-victor"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Loves+to+Collaborate;Always+learning+new+things&center=true&width=500&height=50"></a>
