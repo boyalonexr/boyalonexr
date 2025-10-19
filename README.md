@@ -21,20 +21,3 @@ Proficient in a variety of programming languages, frameworks, and technologies.
   <img src="https://skillicons.dev/icons?i=react,js,nextjs,nodejs,ts,html,css,tailwind,figma,git,github" />
 </p>
 
----
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=micheal-victor&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=micheal-victor&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micheal-victor&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-
