@@ -22,7 +22,7 @@ Proficient in a variety of programming languages, frameworks, and technologies.
 
 <div align="cente">
     <img src="https://skillicons.dev/icons?i=react,html,css,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs" /><br>
 </div>
 
 
